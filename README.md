@@ -49,7 +49,7 @@
   <a href="https://www.instagram.com/haviell.dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="wa.me//+5519983826997" target="_blank">
+  <a href="https://wa.me/5519983826997?text=Fala%2C%20vim%20pelo%20seu%20GitHub%20👋" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
