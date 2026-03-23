@@ -1,4 +1,4 @@
-<h3 align="left">e aí eu estou<br>construindo coisas na internet ☕✨</h3>
+<h3 align="left">E aí eu estou<br>construindo coisas na internet ☕✨</h3>
 
 ###
 
@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<img align="right" height="300" src="assets/giphy.gif" />
+<img align="right" height="250" src="assets/giphy.gif" />
 
 ###
 
