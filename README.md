@@ -58,6 +58,6 @@
 
 <br clear="both">
 
-<img src="/snake.yml" alt="Snake animation" />
+<img src="Haviell/snake.yml" alt="Snake animation" />
 
 ###
