@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="assets/giphy.gif"/>
+<img align="right" height="300" src="assets/giphy.gif" />
 
 ###
 
